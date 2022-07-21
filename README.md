@@ -2,7 +2,8 @@
 
 >JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language.
 >>JavaScript is Dynamically type language.
->> JavaScript is case sensitive.
+
+>>JavaScript is case sensitive.
 
 ## Table Of Content
 

@@ -1,6 +1,7 @@
 # JavaScript Basic
 
-JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language.
+>JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language.
+>>JavaScript is Dynamically type language.
 
 ## Table Of Content
 

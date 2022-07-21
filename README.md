@@ -30,8 +30,8 @@ variables are containers for storing data and data values.
   3. const
   4. nothing
 
-#### 1. var 
-above a, b and c are variables, declared with the **var** keyword, and ***var can be reassignable again and again.***
+> 1. var 
+>>above a, b and c are variables, declared with the **var** keyword, and ***var can be reassignable again and again.***
 ```javascript
 //1.var  
 

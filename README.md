@@ -21,7 +21,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 ## Variables
 
-### * [1.1](#1.1 "Goto 1.1") Introduction
+* [1.1](#1.1 "Goto 1.1") Introduction
 variables are containers for storing data and data values.
 
 ### 1.2 Four types of variables are

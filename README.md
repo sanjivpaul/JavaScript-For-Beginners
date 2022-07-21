@@ -30,7 +30,7 @@ variables are containers for storing data and data values.
   * `const`
   * `nothing`
 
-#### 1. var 
+* [1.2.1](#1.2.1 "Goto 1.2.1") **var** 
 >above a, b and c are variables, declared with the **var** keyword, and ***var can be reassignable again and again.***
 ```javascript
 //1.var  
@@ -41,7 +41,7 @@ var c = a + b;
 
 //output: 15
 ```
-#### 2. let 
+* [1.2.2](#1.2.2 "Goto 1.2.2") **let**  
 >above a, b and c are variables, declared with the **let** keyword, and ***let can't reassignable only update.***
 ```javascript
 //2.let 
@@ -54,7 +54,7 @@ let c = a + b;
 
 ```
 
-#### 3. const 
+* [1.2.3](#1.2.3 "Goto 1.2.3") **const**  
 >above **price1**, **price2** and **total** are variables, declared with the **const** keyword, and ***const nor reassignable nor update its a constant.***
 ```javascript
 //3.const 
@@ -67,7 +67,7 @@ let total = price1 + price2;
 
 ```
 
-#### 4. nothing 
+* [1.2.4](#1.2.4 "Goto 1.2.4") **nothing**  
 >above **a**, **b** and **c** are undeclared  variables.
 ```javascript
 //4.nothing 

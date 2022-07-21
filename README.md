@@ -19,7 +19,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 13. JS Loops
 
 
-## 1.Variables
+## Variables
 
 ### 1.1 Introduction
 variables are containers for storing data and data values.

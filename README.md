@@ -26,8 +26,8 @@ variables are containers for storing data and data values.
 
 * [1.2](#1.2 "Goto 1.2") **Four types of variables are**
   * [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
-  * `let`
-  * `const`
+  * [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+  * [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
   * `nothing`
 
 * [1.2.1](#1.2.1 "Goto 1.2.1") **var:** 

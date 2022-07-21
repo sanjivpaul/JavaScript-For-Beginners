@@ -25,7 +25,7 @@
 * [1.1](#1.1 "Goto 1.1") **Introduction** :
 variables are containers for storing data and data values.
 
-* [1.2](#1.2 "Goto 1.2") **Four types of variables are**
+* [1.2](#1.2 "Goto 1.2") **4 ways of declaring variables**
   * [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
   * [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
   * [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)

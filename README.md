@@ -4,7 +4,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 ## Table Of Content
 
-1. [Variables](https://github.com/sanjivpaul/JavaScript-For-Beginners#1variables)
+1. [Variables]([https://github.com/sanjivpaul/JavaScript-For-Beginners#1variables](https://github.com/sanjivpaul/JavaScript-For-Beginners/commit/0e1215a108d547603d58434d71882da7529b3beb))
 2. DataTypes
 3. Conditional Statement
 4. JS Operators

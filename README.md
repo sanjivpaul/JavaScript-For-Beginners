@@ -83,9 +83,9 @@ c = a + b;
 ```
 
 ## DataTypes
-* there are two type of datatype:
-  * A. Primitive
-  * B. Non-Primitive
+* 2.1 There are two type of datatype:
+  * A. **Primitive**
+  * B. **Non-Primitive**
 
 * A. Primitive
   * 1.string

@@ -92,12 +92,12 @@ c = a + b;
   * 2.number
   * 3.boolean
 
-* B.Non-Primitive
+* B. Non-Primitive
   * 4.object
-    ** null
-    ** function
-    ** array
-    ** jsObjects
+    * null
+    * function
+    * array
+    * jsObjects
     
 * C. Undefined
 

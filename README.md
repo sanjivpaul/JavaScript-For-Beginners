@@ -171,6 +171,38 @@ console.log(type);
 
 ```
 
+## Conditional Statement
+* 3.1 There are two types of conditional statements:
+  * A. **`if else`**
+  * B. **`switch`**
+
+* A. **if else:**
+ ```javascript
+//if else syntax:
+if (condition){
+    //code
+}else{
+    // code
+}
+
+```
+```javascript
+//if else
+var isVideoUploaded = false;
+
+if (isVideoUploaded == true) {
+  console.log("video is uploaded on the lms portal");
+} else {
+  console.log("sir please upload a video");
+}
+```
+
+* B. **switch**
+```javascript
+//switch
+```
+ 
+
 
 
 

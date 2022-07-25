@@ -7,7 +7,7 @@
 ## Table Of Content
 
 1. [Variables](https://github.com/sanjivpaul/JavaScript-For-Beginners/blob/0e1215a108d547603d58434d71882da7529b3beb/01variables.js)
-2. DataTypes
+2. [DataTypes](https://github.com/sanjivpaul/JavaScript-For-Beginners/blob/master/02DataTypes.js)
 3. Conditional Statement
 4. JS Operators
 5. JS Output Statement

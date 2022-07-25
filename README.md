@@ -82,4 +82,11 @@ c = a + b;
 
 ```
 
+## DataTypes
+> there are two type of datatype:
+* A. Primitive
+  * 1.string
+  * 2.number
+  * 3.boolean
+
 

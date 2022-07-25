@@ -83,22 +83,95 @@ c = a + b;
 ```
 
 ## DataTypes
-* 2.1 There are two type of datatype:
+* 2.1 There is two types of datatype:
   * A. **Primitive**
   * B. **Non-Primitive**
 
 * A. Primitive
-  * 1.string
-  * 2.number
-  * 3.boolean
+  * 1.`string`
+  * 2.`number`
+  * 3.`boolean`
 
 * B. Non-Primitive
-  * 4.object
+  * 4.`object`
     * null
     * function
     * array
     * jsObjects
     
 * C. Undefined
+
+* 1.**string datatype:**
+```javascript
+
+var studentName = "Sanjiv paul";//string
+console.log(studentName);
+
+```
+
+* 2.**number datatype:**
+```javascript
+
+ // --Number datatype
+var mobileNumber = 4258874568; // number
+var marksStudent = 84.8; // float number
+console.log(mobileNumber);
+console.log(marksStudent);
+
+```
+
+* 3.**boolean datatype:**
+```javascript
+
+// --Boolean datatype
+var isPresent = true; //Boolean
+console.log(isPresent);
+
+```
+* 4.**object datatype:**
+``` javascript
+// --Null 
+var studentSubject = null;
+console.log(studentSubject); //object
+
+//--function 
+
+//--array 
+
+//--jsObjects
+
+```
+* C. **Undefined:**
+```javascript
+// --Undefined datatype: memory is allocated but value is not assigne
+
+var parentMobile;
+console.log(parentMobile);
+
+```
+
+* 2.2 **Type:**
+>With Type we can find the datatype.
+```javascript
+// Type:
+var type = typeof studentName;
+console.log(type);
+
+var type = typeof mobileNumber;
+console.log(type);
+
+var type = typeof isPresent;
+console.log(type);
+
+var type = typeof studentSubject;
+console.log(type);
+
+var type = typeof parentMobile;
+console.log(type);
+
+```
+
+
+
 
 
